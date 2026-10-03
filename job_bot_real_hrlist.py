@@ -380,7 +380,7 @@ Hi {first_name},
 
 {custom_line}
 
-I'm Aftab Dayer — an NIT Hamirpur 2025 graduate and {role} with an IEEE-published research paper (IACIS-2025) and three production-deployed data applications. I hold a Microsoft Power BI certification (PL-300) and have hands-on experience in SQL, Python, Power BI, and ML-based analytics.
+I'm Aftab Dayer — an NIT Hamirpur 2025 graduate and {role} with an IEEE-published research paper (IACIS-2025) and three production-deployed data applications. I hold a Microsoft Power BI Professional Certificate (Coursera, PL-300 aligned) and have hands-on experience in SQL, Python, Power BI, and ML-based analytics.
 
 A few highlights from my work:
 - Built JobMarket AI — a full-stack job analytics platform processing 1,000 job postings across 15 IT roles, with salary percentile benchmarking across 24 cities
